@@ -10,7 +10,7 @@ Neste projeto de referencia pense que utilizamos varias imagens de faces e outra
 
 Uso
 
-O projeto esta pronto para uso e reconhecimento facial, basta ter a biblioteca OpenCV instalada e executa-la.
+O projeto esta pronto para uso e reconhecimento facial, basta ter a biblioteca OpenCV instalada, uma webcam e executar o arquivo facial.py.
 
 python facial.py
 
