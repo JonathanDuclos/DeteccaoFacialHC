@@ -25,3 +25,5 @@ classificador = cv2.CascadeClassifier("recursos/haarcascade_frontalface_default.
 para: 
 
 classificador = cv2.CascadeClassifier("recursos/[SEU_HAAR_AQUI]")
+
+Lembre-se: Pressionar a tecla "q" para sair.
